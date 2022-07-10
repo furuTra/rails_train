@@ -1,0 +1,7 @@
+class SelfIntroductionController < ApplicationController
+  def home; end
+
+  def profile; end
+
+  def about; end
+end
